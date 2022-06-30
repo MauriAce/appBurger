@@ -1,0 +1,21 @@
+|-------------------------------------------------------------|
+|                        BURGER´S                             |
+|                    Comidas Rápidas                          |
+|                                                             | 
+|          Documento no VALIDO  como factura                  |
+|                                                             | 
+|-------------------------------------------------------------|
+    Fecha              :  2022-6-21        13:29:8
+    Nombre del Empleado:  maria
+    Numero de ticket   :  2022621-13298
+    Nombre del cliente :  Marcelo
+    Comida             :  Milanesa Completa($750) cant: 5
+    Bebida             :  Cerveza lata($200) cant: 5
+    Guarnicion         :  Papa Frita  grande($600) cant: 2
+    Observaciones      :  sin mayonesa
+    Monto Total        :  5950
+    Forma de pago      :  Efectivo
+ 
+|--------------------------------------------------------------|
+|      Con su Pedido debe entregarse una factura valida        |
+|--------------------------------------------------------------| 

@@ -1,0 +1,20 @@
+------------------------------------------------------ 
+|                 Z 204 Fast Food                     |
+ 
+|          Documento no VALIDO  como factura          |
+ 
+------------------------------------------------------ 
+    Fecha              : 2022-6-5
+    Nombre del Empleado: teodora d ejusus
+    Numero de ticket   : 202265-20910
+    Nombre del cliente : nathalia andrea
+    Comida             : Milanesa
+    Bebida             : Coca Cola
+    Guarnicion         : Papa Frita
+    Observaciones      : bebida sin hielo
+    Monto Total        : 150
+    Forma de pago      : 150
+ 
+------------------------------------------------------ 
+|  Con su Pedido debe entregarse una factura valida  |
+------------------------------------------------------ 

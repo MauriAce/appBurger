@@ -1,0 +1,20 @@
+------------------------------------------------------ 
+|                 Z 204 Fast Food                     |
+ 
+|          Documento no VALIDO  como factura          |
+ 
+------------------------------------------------------ 
+    Fecha              :  2022-6-6        13:13:7
+    Nombre del Empleado:  juian carlos
+    Numero de ticket   :  202266-13137
+    Nombre del cliente :  marcelo bielsa
+    Comida             :  Hamburguesa
+    Bebida             :  Sprite
+    Guarnicion         :  Papa Frita
+    Observaciones      :  sin hielo
+    Monto Total        :  200
+    Forma de pago      :  Efectivo
+ 
+------------------------------------------------------ 
+|  Con su Pedido debe entregarse una factura valida  |
+------------------------------------------------------ 

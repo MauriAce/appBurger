@@ -1,0 +1,20 @@
+------------------------------------------------------ 
+|                 Z 204 Fast Food                     |
+ 
+|          Documento no VALIDO  como factura          |
+ 
+------------------------------------------------------ 
+    Fecha              : 2022-6-5
+    Nombre del Empleado: 
+    Numero de ticket   : 202265-19226
+    Nombre del cliente : 
+    Comida             : Seleccione una opcion
+    Bebida             : Seleccione una opcion
+    Guarnicion         : Seleccione una opcion
+    Observaciones      : 
+    Monto Total        : 
+    Forma de pago      : 
+ 
+------------------------------------------------------ 
+|  Con su Pedido debe entregarse una factura valida  |
+------------------------------------------------------ 

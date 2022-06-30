@@ -1,0 +1,20 @@
+------------------------------------------------------ 
+|                 Z 204 Fast Food                     |
+ 
+|          Documento no VALIDO  como factura          |
+ 
+------------------------------------------------------ 
+    Fecha              :  2022-6-20        18:4:58
+    Nombre del Empleado:  
+    Numero de ticket   :  2022620-18458
+    Nombre del cliente :  mauricio
+    Comida             :  Milanesa Completa  ($750)
+    Bebida             :  Sprite	       ($150)
+    Guarnicion         :  Papa Frita  grande    ($600)
+    Observaciones      :  bebida sin hielo
+    Monto Total        :  2400
+    Forma de pago      :  Efectivo
+ 
+------------------------------------------------------ 
+|  Con su Pedido debe entregarse una factura valida  |
+------------------------------------------------------ 

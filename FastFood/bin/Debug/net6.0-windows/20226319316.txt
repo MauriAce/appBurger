@@ -1,0 +1,20 @@
+------------------------------------------------------ 
+|                 Z 204 Fast Food                     |
+ 
+|          Documento no VALIDO  como factura          |
+ 
+------------------------------------------------------ 
+    Fecha              :2022-6-3
+    Nombre del Empleado:Juan Carlos
+    Numero de ticket   :202263-19316
+    Nombre del cliente :Mauricio
+    Comida             :Milanesa
+    Bebida             :Sprite
+    Guarnicion         :Papa al Horno
+    Observaciones      :sin mayonesa
+    Monto Total        :150
+    Forma de pago      :150
+ 
+------------------------------------------------------ 
+|  Con su Pedido debe entregarse una factura valida  |
+------------------------------------------------------ 

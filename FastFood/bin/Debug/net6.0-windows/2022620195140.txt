@@ -1,0 +1,21 @@
+------------------------------------------------------ 
+|                        BURGER´S                     |
+|                    Comidas Rápidas                  |
+|                                                     | 
+|          Documento no VALIDO  como factura          |
+|                                                     | 
+------------------------------------------------------ 
+    Fecha              :  2022-6-20        19:51:40
+    Nombre del Empleado:  juancarlos
+    Numero de ticket   :  2022620-195140
+    Nombre del cliente :  Mauricio
+    Comida             :  Hamburguesa  XXL($950)
+    Bebida             :  Fanta($150)
+    Guarnicion         :  Ensalada Clasica($550)
+    Observaciones      :  bebida sin hielo, solo mayonesa
+    Monto Total        :  3300
+    Forma de pago      :  Efectivo
+ 
+------------------------------------------------------ 
+|  Con su Pedido debe entregarse una factura valida  |
+------------------------------------------------------ 

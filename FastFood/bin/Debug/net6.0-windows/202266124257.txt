@@ -1,0 +1,20 @@
+------------------------------------------------------ 
+|                 Z 204 Fast Food                     |
+ 
+|          Documento no VALIDO  como factura          |
+ 
+------------------------------------------------------ 
+    Fecha              : 2022-6-6
+    Nombre del Empleado: juan jose
+    Numero de ticket   : 202266-124257
+    Nombre del cliente : marcelo
+    Comida             : Milanesa
+    Bebida             : Coca Cola
+    Guarnicion         : Papa Frita
+    Observaciones      : ninguna
+    Monto Total        : 520
+    Forma de pago      : 520
+ 
+------------------------------------------------------ 
+|  Con su Pedido debe entregarse una factura valida  |
+------------------------------------------------------ 

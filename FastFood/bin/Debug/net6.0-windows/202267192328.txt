@@ -1,0 +1,20 @@
+------------------------------------------------------ 
+|                 Z 204 Fast Food                     |
+ 
+|          Documento no VALIDO  como factura          |
+ 
+------------------------------------------------------ 
+    Fecha              :  2022-6-7        19:23:28
+    Nombre del Empleado:  nathalia
+    Numero de ticket   :  202267-192328
+    Nombre del cliente :  mauricio
+    Comida             :  Hamburguesa
+    Bebida             :  Coca Cola
+    Guarnicion         :  Papa Frita
+    Observaciones      :  coca sin hielo
+    Monto Total        :  1750
+    Forma de pago      :  Efectivo
+ 
+------------------------------------------------------ 
+|  Con su Pedido debe entregarse una factura valida  |
+------------------------------------------------------ 

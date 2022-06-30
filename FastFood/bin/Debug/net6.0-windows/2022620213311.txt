@@ -1,0 +1,21 @@
+------------------------------------------------------ 
+|                        BURGER´S                     |
+|                    Comidas Rápidas                  |
+|                                                     | 
+|          Documento no VALIDO  como factura          |
+|                                                     | 
+------------------------------------------------------ 
+    Fecha              :  2022-6-20        21:33:11
+    Nombre del Empleado:  Nathalia
+    Numero de ticket   :  2022620-213311
+    Nombre del cliente :  Mauricio
+    Comida             :  Hamburguesa S($500) cant: 7
+    Bebida             :  Cerveza lata($200) cant: 8
+    Guarnicion         :  Papa Frita  grande($600) cant: 6
+    Observaciones      :  ninguna
+    Monto Total        :  8700
+    Forma de pago      :  Efectivo
+ 
+------------------------------------------------------ 
+|  Con su Pedido debe entregarse una factura valida  |
+------------------------------------------------------ 

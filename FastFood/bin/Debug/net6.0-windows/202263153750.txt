@@ -1,0 +1,10 @@
+Fecha:2022-6-3
+Nombre del usuario :mauricio
+Numero de ticket: 2022-6-3-153750
+Nombre del cliente :mauricio
+Comida :Hamburguesa
+Bebida :Coca Cola
+Guarnicion :Papa Frita
+Observaciones :ninguna
+Monto Total :1520
+Forma de pago :1520

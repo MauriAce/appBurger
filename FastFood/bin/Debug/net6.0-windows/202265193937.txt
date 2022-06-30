@@ -1,0 +1,20 @@
+------------------------------------------------------ 
+|                 Z 204 Fast Food                     |
+ 
+|          Documento no VALIDO  como factura          |
+ 
+------------------------------------------------------ 
+    Fecha              : 2022-6-5
+    Nombre del Empleado: juan pedro
+    Numero de ticket   : 202265-193937
+    Nombre del cliente : lucas
+    Comida             : Milanesa
+    Bebida             : Sprite
+    Guarnicion         : Papa Frita
+    Observaciones      : sin hielo
+    Monto Total        : 180
+    Forma de pago      : 180
+ 
+------------------------------------------------------ 
+|  Con su Pedido debe entregarse una factura valida  |
+------------------------------------------------------ 

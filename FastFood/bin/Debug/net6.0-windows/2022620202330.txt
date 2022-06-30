@@ -1,0 +1,21 @@
+------------------------------------------------------ 
+|                        BURGER´S                     |
+|                    Comidas Rápidas                  |
+|                                                     | 
+|          Documento no VALIDO  como factura          |
+|                                                     | 
+------------------------------------------------------ 
+    Fecha              :  2022-6-20        20:23:30
+    Nombre del Empleado:  juan
+    Numero de ticket   :  2022620-202330
+    Nombre del cliente :  mauricio
+    Comida             :  Hamburguesa S($500)
+    Bebida             :  Coca Cola($150)
+    Guarnicion         :  Papa Frita  grande($600)
+    Observaciones      :  bebida sin Hielo
+    Monto Total        :  1250
+    Forma de pago      :  Efectivo
+ 
+------------------------------------------------------ 
+|  Con su Pedido debe entregarse una factura valida  |
+------------------------------------------------------ 
